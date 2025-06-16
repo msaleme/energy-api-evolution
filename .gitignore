@@ -1,0 +1,63 @@
+# Dependencies
+node_modules/
+vendor/
+venv/
+env/
+*.egg-info/
+
+# Build outputs
+dist/
+build/
+target/
+*.jar
+*.war
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+
+# Test coverage
+coverage/
+.coverage
+htmlcov/
+*.coverage
+
+# Docker volumes
+postgres-data/
+redis-data/
+influxdb-data/
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+tmp/
+temp/
+
+# API keys and secrets
+*.key
+*.pem
+*.crt
+credentials/
+secrets/
+
+# But keep examples
+!**/*.example
+!**/*.sample
