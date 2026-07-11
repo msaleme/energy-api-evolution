@@ -2,7 +2,7 @@
 
 A reference architecture for exposing grid modeling, energy management, and renewable-energy optimization capabilities through consistent enterprise APIs.
 
-> **Project status:** Architecture and API-design reference. Specifications and supporting assets are intended for evaluation and extension. Performance, compliance, and operational benefits are design objectives unless accompanied by reproducible evidence.
+> **Project status:** Architecture and API-design reference. Documentation and integration scaffolding are intended for evaluation and extension. Performance, compliance, and operational benefits are design objectives unless accompanied by reproducible evidence.
 
 ## Purpose
 
